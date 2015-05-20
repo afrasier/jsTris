@@ -1,4 +1,4 @@
-//Author: Arman Frasier; contact@armanfrasier.com
+//Author: Arman Frasier; armanfrasier@gmail.com
 
 //Adding initialization event listeners
 window.onload = initialize;
