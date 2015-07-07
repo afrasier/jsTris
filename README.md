@@ -1,5 +1,5 @@
 # jsTris
-A JavaScript implementation of Tetris. Written in 2014 and now uploaded to Github.
+A JavaScript implementation of Tetris. Written in 2014 and now uploaded to Github. The code is pretty messy, I never went back to clean it up. (Though it is a bit better than the jsTeroids code...)
 
 Music from:
 
